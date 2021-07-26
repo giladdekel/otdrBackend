@@ -1,0 +1,591 @@
+[2021-07-21T10:12:03.910] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T10:12:03.911] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T10:12:08.930] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T10:54:18.366] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T10:54:38.406] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:06:34.805] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T11:07:34.932] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T11:07:44.949] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:07:54.983] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T11:31:11.328] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T11:31:11.329] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T11:31:16.366] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T11:31:36.412] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:33:06.532] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T11:33:16.555] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:33:37.545] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T11:33:37.546] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T11:33:42.573] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:43:26.996] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T11:43:26.997] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T11:43:32.029] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:44:07.116] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T11:44:37.186] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T11:44:47.198] [WARN] all-the-logs - length of failure: 160.92
+[2021-07-21T11:44:57.223] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:55:28.275] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T11:55:28.275] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T11:55:33.307] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:56:38.419] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T11:56:58.452] [INFO] all-the-logs - length of success: 225
+[2021-07-21T11:57:08.468] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T11:59:18.732] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T11:59:23.746] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-21T11:59:33.773] [INFO] all-the-logs - length of success: 225
+[2021-07-21T12:00:33.888] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T12:00:53.917] [INFO] all-the-logs - length of success: 225
+[2021-07-21T12:11:55.075] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T12:58:35.443] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T12:59:05.505] [INFO] all-the-logs - length of success: 225
+[2021-07-21T13:02:55.930] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:02:55.931] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:03:00.976] [INFO] all-the-logs - length of success: 225
+[2021-07-21T13:04:37.483] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:04:37.483] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:04:56.292] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:04:56.293] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:09:15.700] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:09:15.701] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:21:19.279] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:21:19.280] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:24:52.472] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:24:52.473] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:25:36.255] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:25:36.255] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:26:31.129] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:26:31.130] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:26:50.888] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:26:50.889] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:30:26.363] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:30:26.364] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:31:38.984] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:31:38.985] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:33:11.044] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:33:11.045] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:34:54.127] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:34:54.128] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:35:56.753] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:35:56.754] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:39:35.681] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:39:35.682] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T13:42:55.246] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T13:42:55.247] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:01:02.762] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:01:02.763] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:01:58.373] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:01:58.374] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:12:15.253] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:12:15.253] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:15:21.225] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:15:21.225] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:15:40.951] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:15:40.952] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:16:05.923] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:16:05.924] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:17:46.199] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:17:46.200] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:18:36.761] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:18:36.761] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:19:48.661] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:19:48.662] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:20:35.759] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:20:35.760] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:21:17.842] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:21:17.843] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:26:45.321] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:26:45.321] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:39:19.595] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:39:19.595] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:40:17.151] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:40:17.151] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T14:49:48.795] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T14:49:48.796] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:00:47.833] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:00:47.834] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:09:56.608] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:09:56.609] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:15:09.499] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:15:09.499] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:31:09.011] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:31:09.012] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:31:14.061] [INFO] all-the-logs - length of success: 225
+[2021-07-21T15:31:49.091] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:31:59.101] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T15:32:09.125] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:32:29.145] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:32:42.355] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:32:42.356] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:32:47.384] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:35:38.457] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:35:38.458] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:35:43.497] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:36:19.204] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:36:19.205] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:36:24.247] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:38:52.973] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:38:52.974] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:38:58.014] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:39:28.033] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:39:38.049] [INFO] all-the-logs - length of success: 225
+[2021-07-21T15:40:36.843] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:40:36.844] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:40:41.891] [INFO] all-the-logs - length of success: 225
+[2021-07-21T15:40:56.882] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:41:06.903] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T15:41:16.907] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:41:26.920] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T15:42:06.991] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T15:42:47.040] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T15:43:17.091] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:43:54.693] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:43:54.694] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:43:59.739] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:52:01.803] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:52:01.804] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:52:06.847] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T15:56:32.268] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T15:56:32.269] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T15:56:37.304] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:01:58.597] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T16:01:58.598] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T16:02:03.631] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:03:18.621] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T16:03:18.621] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T16:03:23.671] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:04:08.732] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:05:08.859] [INFO] all-the-logs - length of success: 225
+[2021-07-21T16:06:13.931] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T16:06:13.933] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T16:06:18.973] [INFO] all-the-logs - length of success: 225
+[2021-07-21T16:06:58.987] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:08:49.147] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:09:09.169] [INFO] all-the-logs - length of success: 225
+[2021-07-21T16:09:49.228] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:18:35.124] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:18:55.155] [INFO] all-the-logs - length of success: 225
+[2021-07-21T16:19:35.206] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:19:45.221] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T16:19:55.233] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:20:55.278] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T16:21:35.340] [INFO] all-the-logs - length of success: 225
+[2021-07-21T16:30:26.145] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T16:30:36.148] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:30:46.160] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T16:45:27.316] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T16:45:57.341] [INFO] all-the-logs - length of success: 225
+[2021-07-21T17:45:07.692] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:45:17.690] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:45:27.719] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:45:37.736] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:45:57.760] [INFO] all-the-logs - length of success: 225
+[2021-07-21T17:47:17.874] [WARN] all-the-logs - length of failure: 109.63
+[2021-07-21T17:47:27.897] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:47:37.911] [INFO] all-the-logs - length of success: 225
+[2021-07-21T17:47:57.950] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:48:07.974] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:48:18.000] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:48:28.019] [INFO] all-the-logs - length of success: 225
+[2021-07-21T17:48:58.073] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:49:08.089] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:49:18.103] [INFO] all-the-logs - length of success: 225
+[2021-07-21T17:50:18.166] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:50:28.189] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T17:50:38.215] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T17:50:48.218] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T17:50:58.237] [INFO] all-the-logs - length of success: 225
+[2021-07-21T18:05:49.623] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:06:04.656] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:06:19.690] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:06:24.688] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:07:04.751] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:07:19.763] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:07:24.786] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:07:44.828] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:08:14.881] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:08:44.951] [WARN] all-the-logs - length of failure: 6.49
+[2021-07-21T18:08:54.975] [INFO] all-the-logs - length of success: 225
+[2021-07-21T18:17:38.893] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-21T18:17:38.893] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-21T18:17:43.943] [INFO] all-the-logs - length of success: 225
+[2021-07-21T18:21:29.244] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T18:23:19.394] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:23:29.417] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:24:09.479] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:24:19.488] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:24:29.515] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-21T18:24:39.536] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-21T18:25:59.645] [INFO] all-the-logs - length of success: 225
+[2021-07-21T18:26:34.740] [WARN] all-the-logs - length of failure: 160.92
+[2021-07-21T18:26:49.719] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T19:26:56.075] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-21T19:27:06.082] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T19:27:16.095] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-21T19:27:26.117] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T19:28:46.258] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-21T19:28:56.267] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-21T19:45:17.897] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-21T19:45:27.911] [WARN] all-the-logs - length of failure: 117.02

@@ -1,0 +1,6 @@
+[2021-07-20T11:03:11.496] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T11:03:16.539] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T11:04:21.626] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T11:04:51.667] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-20T11:05:01.673] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T11:05:21.704] [WARN] all-the-logs - length of failure: 117.02

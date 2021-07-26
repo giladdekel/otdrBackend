@@ -1,0 +1,258 @@
+[2021-07-25T09:15:08.081] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-25T10:08:22.834] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:16:33.638] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T10:16:43.651] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:34:20.454] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T10:34:30.465] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:35:30.566] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T10:35:40.580] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:39:00.915] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T10:44:11.334] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:44:41.381] [INFO] all-the-logs - length of success: 225
+[2021-07-25T10:46:21.520] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:46:31.533] [INFO] all-the-logs - length of success: 225
+[2021-07-25T10:46:51.557] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T10:47:01.581] [INFO] all-the-logs - length of success: 225
+[2021-07-25T10:57:22.496] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-25T10:57:32.507] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:01:42.882] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:02:22.934] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:10:23.720] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:10:33.750] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:15:34.180] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:15:54.202] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:21:24.669] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:21:54.710] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:24:04.933] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-25T11:24:04.935] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-25T11:24:09.981] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:24:40.010] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T11:24:50.015] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:26:10.152] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T11:26:20.168] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:29:13.110] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-25T11:29:13.112] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-25T11:29:18.137] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:30:13.200] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:30:53.266] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T11:31:03.285] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:32:53.449] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T11:33:03.455] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T11:33:13.475] [INFO] all-the-logs - length of success: 225
+[2021-07-25T11:59:00.853] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T11:59:10.870] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:00:20.996] [WARN] all-the-logs - length of failure: 172.15
+[2021-07-25T12:00:31.009] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:01:21.092] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:01:31.119] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T12:01:41.115] [WARN] all-the-logs - length of failure: 160.92
+[2021-07-25T12:01:51.124] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:04:41.397] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:05:01.431] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:08:31.759] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:09:31.886] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:10:31.984] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:10:52.022] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:13:12.217] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:13:22.232] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:17:42.708] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:17:52.719] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:18:22.752] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:18:32.768] [WARN] all-the-logs - length of failure: 115.49
+[2021-07-25T12:18:42.779] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:18:52.797] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:19:12.818] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T12:22:23.112] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:22:53.170] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T12:23:03.186] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:23:13.207] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T12:24:33.326] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:30:03.814] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:30:13.829] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:30:23.841] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:30:33.852] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:39:54.682] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-25T12:40:04.702] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:52:30.829] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:52:50.865] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:53:00.876] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:53:10.887] [WARN] all-the-logs - length of failure: 272.21
+[2021-07-25T12:53:30.906] [WARN] all-the-logs - length of failure: 272.47
+[2021-07-25T12:53:40.910] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:54:20.992] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T12:54:31.005] [INFO] all-the-logs - length of success: 225
+[2021-07-25T12:54:51.049] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T12:55:11.074] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T12:55:31.111] [WARN] all-the-logs - length of failure: 7.53
+[2021-07-25T12:55:41.115] [INFO] all-the-logs - length of success: 225
+[2021-07-25T13:00:41.552] [WARN] all-the-logs - length of failure: 271.7
+[2021-07-25T13:00:51.582] [INFO] all-the-logs - length of success: 225
+[2021-07-25T13:06:52.179] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T13:08:32.357] [INFO] all-the-logs - length of success: 225
+[2021-07-25T13:22:23.622] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T13:22:33.632] [INFO] all-the-logs - length of success: 225
+[2021-07-25T13:32:33.134] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-25T14:21:24.135] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T14:21:44.151] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T14:21:54.158] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T14:22:04.179] [INFO] all-the-logs - length of success: 225
+[2021-07-25T14:24:44.419] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T14:25:34.502] [INFO] all-the-logs - length of success: 225
+[2021-07-25T14:27:54.759] [WARN] all-the-logs - length of failure: 273.23
+[2021-07-25T14:28:04.778] [INFO] all-the-logs - length of success: 225
+[2021-07-25T14:30:04.931] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T14:30:14.940] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T14:35:50.481] [WARN] all-the-logs - length of failure: 202.27
+[2021-07-25T14:36:00.520] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T14:36:20.535] [WARN] all-the-logs - length of failure: 201.52
+[2021-07-25T14:36:30.542] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-25T14:36:40.561] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-25T14:36:50.573] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:33:20.945] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:33:30.955] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:36:21.186] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T15:36:31.205] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:38:01.337] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T15:38:11.343] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:41:31.663] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-25T15:41:41.686] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:43:41.879] [WARN] all-the-logs - length of failure: 0
+[2021-07-25T15:43:51.886] [WARN] all-the-logs - length of failure: 123.66
+[2021-07-25T15:44:01.897] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:46:32.074] [WARN] all-the-logs - length of failure: 0
+[2021-07-25T15:47:52.159] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T15:48:02.159] [INFO] all-the-logs - length of success: 225
+[2021-07-25T15:48:32.208] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:48:42.226] [INFO] all-the-logs - length of success: 225
+[2021-07-25T15:48:52.227] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:49:42.311] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T15:50:12.367] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:50:22.375] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T15:50:32.384] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:50:42.415] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T15:53:52.649] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:54:02.670] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T15:54:32.705] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T15:54:52.734] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T16:01:33.378] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:01:53.384] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:02:03.404] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:02:13.416] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:02:23.435] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:02:43.463] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:02:53.487] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T16:03:03.515] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:03:13.533] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:03:23.552] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:03:33.569] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:03:43.584] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-25T16:03:53.594] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:04:03.602] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:04:23.644] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:04:33.656] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:04:43.670] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:04:53.697] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:05:13.738] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:05:23.741] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:05:33.774] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:05:43.776] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:05:53.790] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:06:23.837] [WARN] all-the-logs - length of failure: 22.85
+[2021-07-25T16:06:33.838] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:06:43.844] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:06:53.853] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:07:03.867] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:07:13.868] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:07:23.887] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:07:33.908] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:07:43.925] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:08:23.992] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:08:34.017] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:08:44.035] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:09:04.071] [WARN] all-the-logs - length of failure: 22.85
+[2021-07-25T16:09:14.073] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:10:04.160] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:10:14.181] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:10:24.190] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:10:34.198] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:10:44.208] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:11:04.238] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:11:14.246] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:11:24.267] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:11:34.283] [WARN] all-the-logs - length of failure: 230.61
+[2021-07-25T16:11:44.300] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T16:15:34.663] [WARN] all-the-logs - length of failure: 61.38
+[2021-07-25T16:15:44.684] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T16:17:24.841] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-25T16:17:34.854] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T16:21:45.258] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:22:05.301] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-25T16:51:12.895] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:51:32.916] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:51:42.931] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:52:12.987] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:52:23.009] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:54:53.222] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-25T16:55:03.241] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:55:53.310] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-25T16:56:03.316] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:56:13.334] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:57:43.469] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T16:57:53.495] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T16:58:23.527] [WARN] all-the-logs - length of failure: 46.33
+[2021-07-25T16:58:33.542] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:01:03.819] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:01:13.831] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:04:34.136] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:04:44.144] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:04:54.162] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:05:04.177] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:06:44.353] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:06:54.377] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:08:34.551] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:08:44.567] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:09:34.642] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:09:44.649] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-25T17:09:54.660] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:11:14.800] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:11:24.819] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:11:54.860] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:12:04.878] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:14:05.080] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T17:14:15.096] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T17:15:15.214] [INFO] all-the-logs - length of success: 225
+[2021-07-25T17:20:35.442] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-25T17:20:35.443] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-25T17:20:40.479] [INFO] all-the-logs - length of success: 225
+[2021-07-25T17:51:33.466] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-25T17:51:43.484] [INFO] all-the-logs - length of success: 225
+[2021-07-25T18:03:04.506] [WARN] all-the-logs - length of failure: 172.15
+[2021-07-25T18:03:14.525] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T18:08:04.977] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T18:08:15.002] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T18:08:45.055] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-25T18:08:55.069] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T18:11:05.283] [INFO] all-the-logs - length of success: 225
+[2021-07-25T18:11:55.353] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-25T18:12:05.372] [WARN] all-the-logs - length of failure: 117.02

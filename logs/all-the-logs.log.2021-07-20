@@ -1,0 +1,611 @@
+[2021-07-20T11:12:30.573] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T11:12:35.638] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T11:46:34.496] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:46:37.050] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:46:44.515] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:46:49.583] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:46:54.567] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:46:59.540] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:04.560] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:09.576] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:14.555] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:19.552] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:24.599] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:29.606] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:34.560] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:39.604] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:44.622] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:49.615] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:54.662] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:47:59.592] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:04.591] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:09.645] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:14.656] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:19.654] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:24.712] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:27.201] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:34.690] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:39.748] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:41.245] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:48:49.715] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:54.694] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:48:59.698] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:04.736] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:09.712] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:14.748] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:19.716] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:24.746] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:29.721] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:34.815] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:36.315] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:49:44.809] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:49.806] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:54.837] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:49:59.801] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:04.842] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:09.800] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:14.810] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:19.874] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:24.814] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:29.838] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:34.873] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:39.890] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:42.370] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:49.875] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:54.900] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:50:59.948] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:04.955] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:09.893] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:14.958] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:19.913] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:22.452] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:27.480] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:34.968] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:39.977] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:44.954] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:50.032] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:55.029] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:51:59.992] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:02.490] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:10.000] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:14.973] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:19.980] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:25.029] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:30.064] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:35.031] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:37.534] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:45.063] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:50.120] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:52:51.679] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:53:00.081] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:05.103] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:10.075] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:15.097] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:17.624] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:25.078] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:30.103] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:32.662] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:40.146] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:45.199] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:50.103] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:53:52.605] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:00.148] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:05.127] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:07.658] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:15.169] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:20.176] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:25.171] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:30.185] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:35.180] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:40.221] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:42.673] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:50.215] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:54:55.188] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:00.209] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:05.239] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:07.779] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:12.747] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:17.756] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:25.237] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:30.257] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:31.765] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:55:40.267] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:45.315] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:47.797] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:55:55.331] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:00.321] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:05.365] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:10.344] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:15.350] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:16.861] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:56:25.319] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:30.366] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:32.894] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:40.429] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:45.413] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:50.392] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:56:52.887] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:00.373] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:05.450] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:10.416] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:15.409] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:17.911] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:22.003] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:57:30.483] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:35.468] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:38.007] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:45.474] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:50.485] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:57:55.525] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:00.500] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:02.031] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:58:10.462] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:15.546] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:20.494] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:25.511] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:28.028] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:35.527] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:40.531] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:45.570] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:50.522] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:58:55.553] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:00.050] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T11:59:00.564] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:02.110] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:59:05.110] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T11:59:08.120] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:13.069] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:30.591] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:32.138] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:59:40.611] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:45.676] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T11:59:47.211] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T11:59:53.190] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:00.723] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:05.686] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:10.671] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:15.762] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:18.252] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:25.730] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:29.265] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:35.769] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:40.108] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:00:40.764] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:43.257] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:45.096] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:00:50.769] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:00:52.276] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-20T12:01:10.804] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:15.820] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:20.829] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:23.322] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:30.834] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:35.854] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:40.064] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:01:40.852] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:45.293] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:01:45.900] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:50.906] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:01:55.849] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:02:05.175] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:02:10.033] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:02:10.890] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:02:15.888] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:02:20.928] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:02:33.411] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:02:40.917] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:04:29.956] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T12:04:35.001] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T12:06:13.496] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[2021-07-20T12:06:13.497] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T12:06:18.545] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T12:21:20.861] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:34:06.939] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:59:33.490] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-20T12:59:44.233] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T12:59:49.280] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T13:00:43.262] [WARN] all-the-logs - length of failure: 46.33
+[2021-07-20T13:00:53.285] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T13:01:23.315] [INFO] all-the-logs - length of success: 225
+[2021-07-20T13:01:53.375] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T13:02:54.502] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-20T13:13:34.345] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T13:13:44.367] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T13:13:54.372] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:06:34.105] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:06:34.106] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:06:39.166] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:07:14.181] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:07:54.249] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:08:04.279] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:08:34.314] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:08:44.322] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:08:54.326] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:09:04.343] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-20T14:09:14.343] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:09:24.355] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:14:59.054] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:14:59.055] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:15:04.112] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:15:04.132] [ERROR] all-the-logs - error in request: ReferenceError: socket is not defined
+[2021-07-20T14:29:03.116] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:29:03.117] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:29:08.164] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:44:15.279] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:44:15.280] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:44:20.321] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:45:24.605] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:45:24.607] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:45:29.644] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:47:59.483] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:47:59.484] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:48:04.542] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T14:48:44.595] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:48:54.632] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:49:04.664] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:51:24.925] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:51:29.916] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:51:39.932] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:51:54.959] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:51:59.984] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:55:53.652] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T14:55:53.653] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T14:55:58.691] [INFO] all-the-logs - length of success: 225
+[2021-07-20T14:56:33.744] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:56:53.787] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:57:13.806] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:58:23.947] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:58:33.975] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:58:44.002] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T14:58:54.022] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T14:59:44.102] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:00:04.116] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:00:14.129] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:00:34.148] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:00:44.168] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:00:54.177] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:02:44.339] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:03:34.429] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-20T15:03:44.430] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:05:24.550] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:05:34.569] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:07:14.664] [WARN] all-the-logs - length of failure: 45.82
+[2021-07-20T15:07:24.680] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:07:54.730] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:08:04.735] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:11:25.003] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:18:20.223] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T15:18:20.227] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T15:18:25.266] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:19:50.357] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:20:10.371] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:20:40.411] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:21:00.460] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:21:10.469] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:21:20.482] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:21:30.507] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:21:50.517] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:22:00.523] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:22:30.557] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:22:50.570] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:23:00.576] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:23:30.615] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:24:00.666] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:24:10.692] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:24:50.751] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:25:00.777] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:25:20.824] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:25:30.833] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:25:50.862] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:25:56.377] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T15:25:56.377] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T15:26:01.416] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:26:31.462] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:26:41.462] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:27:01.506] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:27:59.565] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T15:27:59.565] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T15:28:04.615] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:28:54.644] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T15:29:14.687] [WARN] all-the-logs - length of failure: 3.19
+[2021-07-20T15:29:24.702] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:29:54.734] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:30:04.754] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:37:31.890] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T15:37:31.891] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T15:37:36.911] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:38:11.965] [WARN] all-the-logs - length of failure: 0
+[2021-07-20T15:38:32.007] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:38:52.023] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:39:41.554] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T15:39:41.555] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T15:39:46.593] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:40:21.656] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:40:51.705] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:41:01.718] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:41:51.818] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:42:11.853] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:42:21.868] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:43:01.917] [WARN] all-the-logs - length of failure: 115.49
+[2021-07-20T15:43:11.934] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:44:12.001] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:45:32.143] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:45:42.164] [INFO] all-the-logs - length of success: 225
+[2021-07-20T15:49:12.537] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T15:51:42.755] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T15:52:22.820] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T16:40:56.587] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T16:40:56.588] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T16:41:01.617] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T16:41:10.971] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T16:41:10.972] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T16:41:16.005] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T16:43:36.368] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T16:43:36.369] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T16:43:41.392] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T16:44:11.445] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:46:01.578] [WARN] all-the-logs - length of failure: 46.58
+[2021-07-20T16:46:11.593] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:47:01.679] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-20T16:47:11.692] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:47:24.525] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T16:47:24.526] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T16:47:29.560] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:47:44.575] [INFO] all-the-logs - length of success: 225
+[2021-07-20T16:48:14.633] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:48:44.688] [WARN] all-the-logs - length of failure: 160.92
+[2021-07-20T16:48:54.706] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T16:50:04.836] [INFO] all-the-logs - length of success: 225
+[2021-07-20T16:50:44.930] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T16:50:54.942] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T17:02:51.282] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T17:03:11.320] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:03:50.040] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:03:50.041] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:03:55.069] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:07:00.431] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:07:00.432] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:07:05.475] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:07:25.903] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:07:25.904] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:07:30.944] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:07:58.804] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:07:58.805] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:08:03.848] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:08:21.008] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:08:21.009] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:08:26.036] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:08:38.194] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:08:38.194] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:08:43.215] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:10:46.572] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:10:46.572] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:10:51.611] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:11:06.221] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:11:06.221] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:11:11.261] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:11:41.584] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-20T17:11:41.585] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-20T17:11:46.621] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:13:11.763] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T17:13:21.777] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T17:13:41.795] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:14:01.842] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-20T17:14:11.878] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T17:14:21.892] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-20T17:21:12.736] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T17:21:32.780] [INFO] all-the-logs - length of success: 225
+[2021-07-20T17:24:03.075] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-20T17:24:13.079] [WARN] all-the-logs - length of failure: 2.94
+[2021-07-20T17:24:23.084] [WARN] all-the-logs - length of failure: 117.02
