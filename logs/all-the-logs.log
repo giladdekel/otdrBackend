@@ -8,3 +8,203 @@
 
 [2021-07-26T09:40:17.752] [TRACE] all-the-logs - Entering OTDR testing
 [2021-07-26T09:40:22.785] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T10:04:30.272] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-26T10:04:30.274] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-26T10:04:35.336] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T10:51:54.651] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T10:52:44.752] [WARN] all-the-logs - length of failure: 123.66
+[2021-07-26T10:52:54.755] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T10:53:24.809] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T10:53:44.852] [INFO] all-the-logs - length of success: 225
+[2021-07-26T10:54:10.093] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-26T10:54:25.960] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:54:35.959] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:54:40.992] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:54:46.011] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:54:48.490] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:54:56.028] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:01.025] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:06.000] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:08.547] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:16.040] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:21.035] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:26.054] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:31.066] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:36.078] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:41.089] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:46.102] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:48.597] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:55:56.090] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:01.111] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:06.101] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:11.125] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:16.134] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:21.119] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:26.141] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:27.646] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-26T10:56:33.635] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:41.132] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:46.148] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:51.163] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:56.140] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:56:57.730] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-26T10:57:06.154] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:11.171] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:16.180] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:21.184] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:26.183] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:31.186] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:36.199] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:41.202] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:42.781] [ERROR] all-the-logs - error in request: Error: connect ECONNREFUSED 20.135.100.41:80
+[2021-07-26T10:57:51.211] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:57:53.734] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:58:01.221] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:58:06.253] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:58:11.232] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:58:16.245] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T10:59:26.355] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:00:50.447] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:01:20.487] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:16:45.921] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-26T11:16:45.921] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-26T11:16:50.966] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:18:41.121] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:19:01.151] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:20:01.234] [WARN] all-the-logs - length of failure: 160.92
+[2021-07-26T11:20:11.257] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:21:51.445] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:22:21.505] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:23:12.638] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:17.635] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:22.648] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:27.655] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:32.662] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:37.656] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:42.704] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:47.680] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:52.458] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:23:52.684] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:23:56.669] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:23:57.708] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:24:01.675] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:24:02.722] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:24:06.684] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:24:07.719] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:24:12.120] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-26T11:24:16.694] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:29:22.090] [WARN] all-the-logs - length of failure: 116.27
+[2021-07-26T11:29:32.096] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:29:42.110] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:30:18.215] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:23.229] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:28.247] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:33.249] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:38.235] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:43.267] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:48.234] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:53.230] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:30:58.267] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:03.256] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:08.293] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:13.315] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:18.279] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:22.266] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:31:23.289] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:27.276] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:31:28.308] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:32.279] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:31:33.318] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:38.366] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:31:42.856] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-26T11:31:58.392] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:32:02.326] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:32:08.391] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:32:12.345] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:32:13.419] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:32:17.360] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:32:18.420] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:32:22.371] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:33:08.149] [ERROR] all-the-logs - error in request: Error: connect ECONNABORTED 20.135.100.41:80
+[2021-07-26T11:33:08.495] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:13.508] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:18.540] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:33.522] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:38.553] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:43.545] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:48.564] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:53.601] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:33:58.589] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:34:02.552] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:34:03.598] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:34:07.565] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:34:08.616] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:34:12.577] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:34:13.651] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:34:17.593] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:34:18.638] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:34:22.592] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T11:36:52.807] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:38:12.906] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:38:54.016] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:38:59.021] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:03.988] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:06.515] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:14.021] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:19.045] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:24.022] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:29.033] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:31.549] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:39.068] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:44.047] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:49.055] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:54.049] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:39:56.584] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:40:01.593] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:40:03.029] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:40:09.080] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:40:13.045] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:40:14.083] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:40:18.046] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:40:19.115] [ERROR] all-the-logs - error in request: Error: connect ETIMEDOUT 20.135.100.41:80
+[2021-07-26T11:40:23.047] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:49:53.972] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:50:03.996] [WARN] all-the-logs - length of failure: 2.43
+[2021-07-26T11:50:14.004] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T11:50:24.016] [INFO] all-the-logs - length of success: 225
+[2021-07-26T11:55:34.498] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-26T11:55:44.518] [INFO] all-the-logs - length of success: 225
+[2021-07-26T12:46:14.338] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T14:41:21.891] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-26T14:41:21.892] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-26T14:41:26.930] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T14:42:21.990] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T14:42:31.993] [INFO] all-the-logs - length of success: 225 meter
+[2021-07-26T14:47:12.420] [WARN] all-the-logs - length of failure: 172.93
+[2021-07-26T14:47:22.431] [INFO] all-the-logs - length of success: 225 meter
+[2021-07-26T14:52:42.964] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-26T16:00:44.188] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-26T16:01:04.226] [INFO] all-the-logs - length of success: 225 meter
+[2021-07-26T16:16:05.666] [WARN] all-the-logs - length of failure: 227.79
+[2021-07-26T16:16:15.668] [INFO] all-the-logs - length of success: 225 meter

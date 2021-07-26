@@ -24,15 +24,12 @@ const io = new Server(httpServer, { cors: { origin: "*" } });
 
 const path = require("path");
 
-
-
 ////////////////
 
 // log4js.configure({
 //   appenders: { cheese: { type: "file", filename: "cheese.log" } },
 //   categories: { default: { appenders: ["cheese"], level: "trace" } }
 // });
-
 
 log4js.configure({
   appenders: {
@@ -165,12 +162,16 @@ async function getLength() {
         ) {
           length = 0;
 
-          io.local.emit("onFiberChange", { length: length, type: "faliure" });
-          io.local.emit("onFailure", {
+          io.local.emit("onFiberChange", {
             length: length,
             time: timeFailed,
-            type: "failure",
+            type: "noFiber",
           });
+          // io.local.emit("onFailure", {
+          //   length: length,
+          //   time: timeFailed,
+          //   type: "failure",
+          // });
         } else {
           length =
             response.data.tests.items[0].lastFailed.traceChange.changeLocation;
@@ -182,7 +183,6 @@ async function getLength() {
           failedFirstTime = true;
         }
         prevFailureLength = length;
-
 
         if (failedFirstTime) {
           console.log("timeFailed: ", timeFailed);
@@ -196,20 +196,23 @@ async function getLength() {
 
           logger.warn(`length of failure: ${length}`);
 
-
           /////////// socket io send to client
 
-          io.local.emit("onFiberChange", { length: length, type: "faliure" });
+          io.local.emit("onFiberChange", {
+            length: length,
+            time: timeFailed,
+            type: "faliure",
+          });
           console.log(
             'io.local.emit("onFiberChange", { length: length, type: "faliure" });'
           );
 
-          io.local.emit("onFailure", {
-            length: length,
-            time: timeFailed,
-            type: "failure",
-          });
-          console.log('io.local.emit("onFailure")');
+          // io.local.emit("onFailure", {
+          //   length: length,
+          //   time: timeFailed,
+          //   type: "failure",
+          // });
+          // console.log('io.local.emit("onFailure")');
 
           // ///////////send to mail
           // let from = '"R.S" <giladdekel123@gmail.com>'; // sender address
@@ -234,10 +237,7 @@ async function getLength() {
           }
 
           // sendToGIS();
-
- 
         }
-
       } else {
         if (successFirstTime) {
           console.log("timeStarted: ", timeStarted);
@@ -249,26 +249,29 @@ async function getLength() {
 
           /////logger file succsess:
 
-          logger.info(`length of success: ${length}`);
+          logger.info(`length of success: ${length} meter`);
 
-       
           /////////// socket io send to client
-          io.local.emit("onFiberChange", { length: length, type: "success" });
-          console.log(
-            'io.local.emit("onFiberChange", { length: length, type: "success" });'
-          );
-
-          io.local.emit("onSuccess", {
+          io.local.emit("onFiberChange", {
             length: length,
             time: timeStarted,
             type: "success",
           });
-          console.log('io.local.emit("onData")');
+          console.log(
+            'io.local.emit("onFiberChange", { length: length, type: "success" });'
+          );
+
+          // io.local.emit("onSuccess", {
+          //   length: length,
+          //   time: timeStarted,
+          //   type: "success",
+          // });
         }
       }
     }
   } catch (error) {
-    // failedFirstTime = true;
+    failedFirstTime = true;
+    successFirstTime=true;
     console.log("failedFirstTime:", failedFirstTime);
 
     io.local.emit("onError", error);
@@ -296,8 +299,6 @@ async function getLength() {
 //       wait: true, // Wait with callback, until user action is taken against notification, does not apply to Windows Toasters as they always wait or notify-send as it does not support the wait option
 //     })
 // }
-
-
 
 setInterval(() => {
   getLength();
