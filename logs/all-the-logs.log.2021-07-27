@@ -1,0 +1,15 @@
+[2021-07-27T09:34:21.873] [TRACE] all-the-logs - 
+
+
+
+
+
+
+
+[2021-07-27T09:34:21.875] [TRACE] all-the-logs - Entering OTDR testing
+[2021-07-27T09:34:26.926] [INFO] all-the-logs - length of success: 225 meter
+[2021-07-27T09:38:57.255] [WARN] all-the-logs - length of failure: 117.02
+[2021-07-27T09:41:47.514] [WARN] all-the-logs - length of failure: 47.35
+[2021-07-27T09:42:07.541] [INFO] all-the-logs - length of success: 225 meter
+[2021-07-27T15:05:37.306] [WARN] all-the-logs - length of failure: 161.43
+[2021-07-27T15:05:47.293] [WARN] all-the-logs - length of failure: 117.02

@@ -192,7 +192,7 @@ async function getLength() {
           successFirstTime = true;
           failedFirstTime = false;
 
-          ////logger file
+          ////loggerrr file
 
           logger.warn(`length of failure: ${length}`);
 
